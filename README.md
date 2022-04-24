@@ -1,1 +1,1 @@
-# Exercícios do curso Alura -  JavaScript: programando na linguagem web
+# Criação do site Aparecida Nutricionista - Alura - JavaScript: programando na linguagem da web

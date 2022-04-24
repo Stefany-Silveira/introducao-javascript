@@ -10,3 +10,5 @@ tabela.addEventListener("dblclick", function(event) {
     }, 500);
 
 });
+
+
